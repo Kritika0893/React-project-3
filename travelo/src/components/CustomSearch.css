@@ -1,0 +1,45 @@
+.searchbar{
+height:61px;
+width: 940px;
+border-radius: 30px;
+background-color: aliceblue;
+display: flex;
+justify-content: center;
+border: 1px solid black;
+justify-items: center;
+justify-content: center;
+margin-left: 250px;
+
+
+}
+li{
+    display: inline-flex;
+    grid-area:auto;
+    
+}
+.box{
+    display: inline-block;
+    height: 60px;
+    width: 170px;
+    
+    
+    
+    justify-items: center;
+    border: 1px solid rgb(155, 152, 152);
+    
+    justify-content: center;
+    text-align: center;
+
+}
+.flightchange{
+    border-radius: 40px;
+    background-color: rgb(97, 97, 247);
+    height: 25px;
+    width: 25px;
+    
+}
+.searching{
+    font-weight: 600;
+
+}
+

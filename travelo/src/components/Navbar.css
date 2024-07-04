@@ -1,0 +1,27 @@
+
+
+.navbar-nav .nav-item li a{
+    
+    margin-left: 300px;
+
+
+}
+a.nav-link{
+    padding: 0px 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: black;
+}
+a.nav-link.active{
+    color: rgb(17, 17, 207);
+    margin-left: 150px;
+}
+.logo{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    width: 220px;
+    height: 73.33px;
+    margin-left: 80px;
+
+}
